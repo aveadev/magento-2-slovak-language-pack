@@ -6686,8 +6686,8 @@ Orders,Objednávky,module,Magento_Sales
 Orders,Objednávky,module,Magento_Backend
 Orders,Objednávky,module,Magento_Reports
 Orders,Objednávky,module,Magento_SalesArchive
-Orders and Returns,Objednávky a návrat,module,Magento_Sales
-Orders and Returns,Orders and Returns,module,Magento_Widget
+Orders and Returns,Objednávky a vratky,module,Magento_Sales
+Orders and Returns,Objednávky a vratky,module,Magento_Widget
 Orders and Returns Search Form,Objednávky a vráti vyhľadávací formulár,module,Magento_Sales
 Orders and Returns Search Form,Orders and Returns Search Form,module,Magento_Widget
 Orders Cron Settings,Objednáva nastavenia Cron,module,Magento_Sales
@@ -12569,3 +12569,4 @@ Processing,Spracovaná,module,Magento_Sales
 The product's required option(s) weren't entered. Make sure the options are entered and try again.,Vyberte variantu a skúste pridať znova.,module,Magento_Catalog
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Pridali ste %1 do <a href=""%2"">nákupného košíka</a>.",module,Magento_Checkout
 Special Price,Zľavnená cena,module,Magento_Wishlist
+Order ID,Číslo objednávky,module,Magento_Widget
