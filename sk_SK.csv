@@ -9058,8 +9058,8 @@ Ship to Specific Countries,Ship to Specific Countries,module,Magento_OfflineShip
 Ship to Specific Countries,Ship to Specific Countries,module,Magento_Ups
 Ship to Specific Countries,Ship to Specific Countries,module,Magento_Usps
 Ship to the recipient's address.,Ship to the recipient's address.,module,Magento_GiftRegistry
-Ship to:,Odošlite na adresu:,module,Magento_Sales
-Ship To:,Prenos do:,module,Magento_Checkout
+Ship to:,Dodacia adresa:,module,Magento_Sales
+Ship To:,Dodacia adresa:,module,Magento_Checkout
 Ship-to Name,Odošlite na meno:,module,Magento_Sales
 Ship-to Name,Názov príjemcu,module,Magento_Customer
 Ship-to Name,Ship-to Name,module,Magento_Paypal
@@ -12134,7 +12134,7 @@ You can buy up to %1 of these per purchase.,Môžete si kúpiť maximálne %1 z 
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
 You can create a rule only to the existing categories.,You can create a rule only to the existing categories.,module,Magento_VisualMerchandiser
-You can create an account after checkout.,Po dokončení nákupu môžete vytvoriť účet.,module,Magento_Checkout
+You can create an account after checkout.,Po dokončení nákupu si môžete vytvoriť účet.,module,Magento_Checkout
 You can create orders only in an active store.,Objednávky môžete vytvárať len v aktívnom obchode.,module,Magento_AdminGws
 You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.,You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.,module,Magento_GiftRegistry
 "You can find and edit rule label and descriptions, per store view, in email templates.","You can find and edit rule label and descriptions, per store view, in email templates.",module,Magento_Reminder
@@ -12570,3 +12570,4 @@ The product's required option(s) weren't entered. Make sure the options are ente
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Pridali ste %1 do <a href=""%2"">nákupného košíka</a>.",module,Magento_Checkout
 Special Price,Zľavnená cena,module,Magento_Wishlist
 Order ID,Číslo objednávky,module,Magento_Widget
+You will be redirected to the PayPal website.,Budete presmerovaný na stránku PayPal.,module,Magento_Paypal
