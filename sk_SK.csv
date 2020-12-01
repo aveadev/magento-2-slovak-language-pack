@@ -4644,7 +4644,7 @@ Height,Height,module,Magento_Usps
 "Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
 hello,hello,module,Magento_Eav
 "Hello,","Dobrý deň,",module,Magento_User
-"Hello,","Dobrý den,",module,Magento_Customer
+"Hello,","Dobrý deň,",module,Magento_Customer
 Help,Help,module,Magento_Paypal
 Help Us Keep Magento Healthy,Help Us Keep Magento Healthy,module,Magento_Theme
 here,here,module,Magento_Paypal
@@ -12571,3 +12571,4 @@ The product's required option(s) weren't entered. Make sure the options are ente
 Special Price,Zľavnená cena,module,Magento_Wishlist
 Order ID,Číslo objednávky,module,Magento_Widget
 You will be redirected to the PayPal website.,Budete presmerovaný na stránku PayPal.,module,Magento_Paypal
+Recently Viewed Products,Nedávno prezerané produkty,module,Magento_Catalog
