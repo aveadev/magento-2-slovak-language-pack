@@ -16,6 +16,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'svartsvan_sk_sk',
+    'aveadev_sk_sk',
     __DIR__
 );

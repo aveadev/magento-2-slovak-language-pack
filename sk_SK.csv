@@ -11365,9 +11365,9 @@ Variable Plain Value,Variable Plain Value,module,Magento_Variable
 Various XML configurations that were collected across modules and merged,Various XML configurations that were collected across modules and merged,module,Magento_Store
 Varnish Cache (Recommended),Varnish Cache (Recommended),module,Magento_PageCache
 Varnish Configuration,Varnish Configuration,module,Magento_PageCache
-VAT Number,DIČ,module,Magento_Customer
-VAT Number,DIČ,module,Magento_Backend
-VAT Number,DIČ,module,Magento_CustomerCustomAttributes
+VAT Number,IČ DPH,module,Magento_Customer
+VAT Number,IČ DPH,module,Magento_Backend
+VAT Number,IČ DPH,module,Magento_CustomerCustomAttributes
 VAT Number is valid.,DIČ je platné!,module,Magento_Customer
 VAT Request Date,Dátum žiadosti o DPH,module,Magento_Sales
 VAT Request Identifier,Identifikátor žiadosti o DPH,module,Magento_Sales

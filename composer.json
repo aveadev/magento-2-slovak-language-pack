@@ -1,7 +1,7 @@
 {
-  "name": "svartsvan/magento-2-slovak-language-pack",
+  "name": "aveadev/magento-2-slovak-language-pack",
   "description": "Slovak language package for Magento 2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "magento", 
     "slovak language",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "svartsvan"
+      "name": "Avea"
     }
   ],
   "autoload": {
