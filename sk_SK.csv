@@ -8787,9 +8787,9 @@ Search Suggestions Count,Počet návrhov v našepkávači,module,Magento_Advance
 Search Synonyms,Search Synonyms,module,Magento_Search
 Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.,Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.,module,Magento_Search
 Search Term,Hľadaný výraz,module,Magento_Search
-Search Terms,Search Terms,module,Magento_Reports
-Search Terms,Search Terms,module,Magento_Search
-Search Terms,Search Terms,module,Magento_SearchStaging
+Search Terms,Hľadané výrazy,module,Magento_Reports
+Search Terms,Hľadané výrazy,module,Magento_Search
+Search Terms,Hľadané výrazy,module,Magento_SearchStaging
 Search Terms Report,Search Terms Report,module,Magento_Search
 Search Weight,Váha hladania,module,Magento_CatalogSearch
 Searchable,Hladateľné,module,Magento_Catalog
