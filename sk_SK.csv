@@ -2579,7 +2579,7 @@ Created On,Created On,module,Magento_GiftRegistry
 Created:,Created:,module,Magento_Paypal
 "Created: %1, Updated: %2, Deleted: %3","Created: %1, Updated: %2, Deleted: %3",module,Magento_ImportExport
 Creating an account has many benefits:,Vytvorenie účtu má veľa výhod:,module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Vytvorenie účtu má veľa výhod: rýchlejšií proces objednávky, uložiť viac adries, sledovanie objednávok a ďalšie.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Vytvorenie účtu má veľa výhod: rýchlejší proces objednávky, uložiť viac adries, sledovanie objednávok a ďalšie.",module,Magento_Customer
 Creative,Creative,module,Magento_GoogleTagManager
 Credit,Credit,module,Magento_BraintreeTwo
 Credit,Credit,module,Magento_Paypal
