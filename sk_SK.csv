@@ -10171,7 +10171,7 @@ The entity adapter object must be an instance of %1 or %2.,The entity adapter ob
 The entity instance is not defined.,The entity instance is not defined.,module,Magento_Eav
 The expiration date must be set in the future.,The expiration date must be set in the future.,module,Magento_GiftCardAccount
 The export is finished.,The export is finished.,module,Magento_ImportExport
-The fewest you may purchase is %1.,"Najmenej čo môžete zakúpiť, je %1.",module,Magento_CatalogInventory
+The fewest you may purchase is %1.,"Minimálny počet kusov pre nákup tohto produktu je %1.",module,Magento_CatalogInventory
 The field is applicable if the Smart Post method is selected.,The field is applicable if the Smart Post method is selected.,module,Magento_Fedex
 The field isn't complete.,Pole nie je kompletné.,module,Magento_Catalog
 The file '%1' for '%2' has an invalid extension.,"Súbor ""%1"" pre ""%2"" má neplatnú príponu.",module,Magento_Catalog
