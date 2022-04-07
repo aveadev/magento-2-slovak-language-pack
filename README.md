@@ -3,7 +3,7 @@
 **Install Slovak pack**:
 
 ``` php
-composer require aveadev/magento-2-slovak-language-pack:dev-master
+composer require aveadev/magento-2-slovak-language-pack
 php bin/magento setup:static-content:deploy sk_SK
 php bin/magento indexer:reindex
 php bin/magento cache:clean
