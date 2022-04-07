@@ -1,14 +1,12 @@
 {
   "name": "aveadev/magento-2-slovak-language-pack",
   "description": "Slovak language package for Magento 2",
-  "version": "0.2.0",
   "keywords": [
     "magento", 
     "slovak language",
     "sk_SK"
   ],
   "type": "magento2-language",
-  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
