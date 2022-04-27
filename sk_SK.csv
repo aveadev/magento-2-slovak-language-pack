@@ -12522,7 +12522,6 @@ Your search returned no results.,Žiadne výsledky pre vaše vyhľadávanie.,mod
 Your search returned no results.,Žiadne výsledky pre vaše vyhľadávanie.,module,Magento_MultipleWishlist
 Your session has expired,Platnosť vašej relácie uplynula,module,Magento_Checkout
 Your Shipment #%shipment_id for Order #%order_id,Zásielka objednávky #%order_id,module,Magento_Sales
-Your Shipment #%shipment_id for Order #%order_id,Odosolanie #%shipment_id pre objednávku #%order_id,theme,frontend/Magento/luma
 Your shipping confirmation is below. Thank you again for your business.,Nižšie je Vaše potvrdenie o odoslaní. Ďakujeme.,module,Magento_Sales
 Your shipping confirmation is below. Thank you again for your business.,Nižšie je Vaše potvrdenie o odoslaní. Ďakujeme.,theme,frontend/Magento/luma
 Your shopping cart has been updated with new prices.,Your shopping cart has been updated with new prices.,module,Magento_Persistent
