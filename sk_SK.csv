@@ -8162,7 +8162,7 @@ Regular,Regular,module,Magento_Usps
 Regular Pickup,Regular Pickup,module,Magento_Fedex
 Regular Price,Bežná cena,module,Magento_Catalog
 Regular Price,Bežná cena,module,Magento_Bundle
-Regular Price,Regular Price,module,Magento_ConfigurableProduct
+Regular Price,Bežná cena,module,Magento_ConfigurableProduct
 Reimbursement for a chargeback.,Reimbursement for a chargeback.,module,Magento_Paypal
 Reimbursement of Chargeback,Reimbursement of Chargeback,module,Magento_Paypal
 Reindex Process,Reindex Process,module,Magento_Logging
