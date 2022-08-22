@@ -3955,14 +3955,14 @@ Exception occurred during order load,Výnimka sa vyskytla pri zaťažení objedn
 Exception.,Exception.,module,Magento_SendFriend
 Excessive address change. The customer changed the billing address two or more times in the last six months,Excessive address change. The customer changed the billing address two or more times in the last six months,module,Magento_Cybersource
 Excessive name changes. The customer changed the name two or more times in the last six months,Excessive name changes. The customer changed the name two or more times in the last six months,module,Magento_Cybersource
-Excl. Tax,Bez dane,module,Magento_Sales
-Excl. Tax,Bez dane,module,Magento_Checkout
-Excl. Tax,Bez dane,module,Magento_AdvancedCheckout
-Excl. Tax,Bez dane,module,Magento_GiftWrapping
-Excl. Tax,Bez dane,module,Magento_Multishipping
-Excl. Tax,Bez dane,module,Magento_Tax
-Excl. Tax,Bez dane,module,Magento_Weee
-Excl. tax:,Bez dane:,module,Magento_Tax
+Excl. Tax,bez DPH,module,Magento_Sales
+Excl. Tax,bez DPH,module,Magento_Checkout
+Excl. Tax,bez DPH,module,Magento_AdvancedCheckout
+Excl. Tax,bez DPH,module,Magento_GiftWrapping
+Excl. Tax,bez DPH,module,Magento_Multishipping
+Excl. Tax,bez DPH,module,Magento_Tax
+Excl. Tax,bez DPH,module,Magento_Weee
+Excl. tax:,bez DPH:,module,Magento_Tax
 Exclude,Vylúčiť,module,Magento_Backup
 Exclude,Exclude,module,Magento_ImportExport
 Exclude from Navigation Menu,Exclude from Navigation Menu,module,Magento_VersionsCms
@@ -8112,7 +8112,7 @@ Refund Online,Refund Online,module,Magento_Support
 Refund Reward Points,Refund Reward Points,module,Magento_Reward
 Refund Reward Points Automatically,Refund Reward Points Automatically,module,Magento_Reward
 Refund Shipping,Vrátenie platby,module,Magento_Sales
-Refund Shipping (Excl. Tax),Vrátenie platby (bez dane),module,Magento_Sales
+Refund Shipping (Excl. Tax),Vrátenie platby (bez DPH),module,Magento_Sales
 Refund Shipping (Incl. Tax),Vrátenie platby (s DPH),module,Magento_Sales
 Refund Store Credit Automatically,Refund Store Credit Automatically,module,Magento_CustomerBalance
 Refund Store Credit to Store Credit,Refund Store Credit to Store Credit,module,Magento_CustomerBalance
