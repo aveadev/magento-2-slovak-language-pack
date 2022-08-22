@@ -4897,20 +4897,20 @@ Inactive,Neaktívny,module,Magento_Review
 Inactive,Neaktívny,module,Magento_SalesRule
 Inactive,Neaktívny,module,Magento_SalesRuleStaging
 Inactive,Neaktívny,module,Magento_TargetRule
-Inc. Tax,Vrátane dane,module,Magento_Catalog
+Inc. Tax,s DPH,module,Magento_Catalog
 Incentive,Incentive,module,Magento_Paypal
 inch,inch,module,Magento_Dhl
 Inches,Inches,module,Magento_Dhl
-Incl. Tax,Vrátane dane,module,Magento_Sales
-Incl. Tax,Vrátane dane,module,Magento_Checkout
-Incl. Tax,Vrátane dane,module,Magento_AdvancedCheckout
-Incl. Tax,Vrátane dane,module,Magento_ConfigurableProduct
-Incl. Tax,Vrátane dane,module,Magento_GiftWrapping
-Incl. Tax,Vrátane dane,module,Magento_Multishipping
-Incl. Tax,Vrátane dane,module,Magento_Paypal
-Incl. Tax,Vrátane dane,module,Magento_Shipping
-Incl. Tax,Vrátane dane,module,Magento_Tax
-Incl. Tax,Vrátane dane,module,Magento_Weee
+Incl. Tax,s DPH,module,Magento_Sales
+Incl. Tax,s DPH,module,Magento_Checkout
+Incl. Tax,s DPH,module,Magento_AdvancedCheckout
+Incl. Tax,s DPH,module,Magento_ConfigurableProduct
+Incl. Tax,s DPH,module,Magento_GiftWrapping
+Incl. Tax,s DPH,module,Magento_Multishipping
+Incl. Tax,s DPH,module,Magento_Paypal
+Incl. Tax,s DPH,module,Magento_Shipping
+Incl. Tax,s DPH,module,Magento_Tax
+Incl. Tax,s DPH,module,Magento_Weee
 Include FPT In Subtotal,Include FPT In Subtotal,module,Magento_Weee
 Include in Menu,Zobraziť v menu,module,Magento_Catalog
 Include in Menu,Include in Menu,module,Magento_CatalogStaging
@@ -8113,7 +8113,7 @@ Refund Reward Points,Refund Reward Points,module,Magento_Reward
 Refund Reward Points Automatically,Refund Reward Points Automatically,module,Magento_Reward
 Refund Shipping,Vrátenie platby,module,Magento_Sales
 Refund Shipping (Excl. Tax),Vrátenie platby (bez dane),module,Magento_Sales
-Refund Shipping (Incl. Tax),Vrátenie platby (vrátane dane),module,Magento_Sales
+Refund Shipping (Incl. Tax),Vrátenie platby (s DPH),module,Magento_Sales
 Refund Store Credit Automatically,Refund Store Credit Automatically,module,Magento_CustomerBalance
 Refund Store Credit to Store Credit,Refund Store Credit to Store Credit,module,Magento_CustomerBalance
 Refund to Store Credit,Refund to Store Credit,module,Magento_CustomerBalance
