@@ -1894,7 +1894,7 @@ Cart Price Rule,Cart Price Rule,module,Magento_SalesRule
 Cart Price Rules,Cart Price Rules,module,Magento_Logging
 Cart Price Rules,Cenové pravidlá košíka,module,Magento_SalesRule
 Cart Price Rules,Cart Price Rules,module,Magento_SalesRuleStaging
-Cart Subtotal,Medzisúčet košíku,module,Magento_Checkout
+Cart Subtotal,Medzisúčet košíka,module,Magento_Checkout
 Carts,Carts,module,Magento_Quote
 Carts,Carts,module,Magento_Reports
 Case Created,Case Created,module,Magento_Signifyd
@@ -6658,8 +6658,8 @@ Order Total,Celkom,module,Magento_Paypal
 Order Total,Celkom,module,Magento_Reports
 Order Total,Celkom,module,Magento_Shipping
 Order Total,Celkom,module,Magento_Tax
-Order Total Excl. Tax,Order Total Excl. Tax,module,Magento_Tax
-Order Total Incl. Tax,Objednávka celkom,module,Magento_Tax
+Order Total Excl. Tax,Objednávka celkom bez DPH,module,Magento_Tax
+Order Total Incl. Tax,Objednávka celkom s DPH,module,Magento_Tax
 Order Total Report,Order Total Report,module,Magento_Reports
 Order total will be displayed before you submit the order,Order total will be displayed before you submit the order,module,Magento_Msrp
 Order Totals,Celkové objednávky,module,Magento_Sales
