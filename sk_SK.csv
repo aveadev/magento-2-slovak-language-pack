@@ -365,7 +365,7 @@
 "<label class=""label""><span>from</span></label>","<label class=""label""><span>od</span></label>",module,Magento_Catalog
 "<label class=""label""><span>to</span></label>","<label class=""label""><span>do</span></label>",module,Magento_Catalog
 <pre> %1 </pre>,<pre> %1 </pre>,module,Magento_Email
-"<span class=""label"">Order Date:</span> %1","<span class = ""label""> Dátum objednávky: </ span>%1",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class = ""label""> Dátum objednávky: </span>%1",module,Magento_Sales
 "<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> výrobky vyžadujú pozornosť.</span>",module,Magento_AdvancedCheckout
 <span>Item %1</span> of %2,<span>Item %1</span> of %2,module,Magento_GiftMessage
 "<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.",module,Magento_CatalogPermissions
@@ -6624,7 +6624,7 @@ Order Id is required for creditmemo document,Identifikátor objednávky sa vyža
 Order Id is required for invoice document,Identifikátor objednávky sa vyžaduje pre dokument faktúry,module,Magento_Sales
 Order Id is required for shipment document,Identifikačné číslo objednávky sa vyžaduje pre doklad o preprave,module,Magento_Sales
 Order id is required.,Order id is required.,module,Magento_Signifyd
-Order Information,informacie o objednávke,module,Magento_Sales
+Order Information,Informácie o objednávke,module,Magento_Sales
 Order Invoices,Objednať faktúry,module,Magento_Sales
 Order is suspended as its capture amount %1 is suspected to be fraudulent.,"Objednávka je pozastavená, pretože jej počet zachytenia %1 je podozrivý z podvodu.",module,Magento_Sales
 Order item id cannot be null,Order item id cannot be null,module,Magento_Downloadable
@@ -6709,7 +6709,7 @@ Other PayPal Payment Solutions:,Other PayPal Payment Solutions:,module,Magento_P
 Other Settings,Ďalšie nastavenia,module,Magento_Backend
 Other Settings,Ďalšie nastavenia,module,Magento_Theme
 Others,Iné,module,Magento_Dhl
-"Our hours are <span class=""no-link"">%store_hours</span>.","Naše hodiny sú <span class=""no-link"">%store_hours</ span>.",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","Naše hodiny sú <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 Out of stock,Vypredané,module,Magento_Checkout
 Out of Stock,Vypredané,module,Magento_Catalog
 Out of stock,Vypredané,module,Magento_Catalog
