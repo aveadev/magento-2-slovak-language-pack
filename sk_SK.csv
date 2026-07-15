@@ -10069,7 +10069,7 @@ Text Swatch,Text Swatch,module,Magento_Swatches
 Thank you for confirming your %store_name account.,Ďakujem za potvrdenie účtu na %store_name.,module,Magento_Customer
 Thank you for registering with,Ďakujeme vám za registráciu na,module,Magento_Customer
 Thank you for registering with %1.,Ďakujeme vám za registráciu %1.,module,Magento_Customer
-Thank you for subscribing to our newsletter.,Thank you for subscribing to our newsletter.,module,Magento_Newsletter
+Thank you for subscribing to our newsletter.,Ďakujeme, že ste sa prihlásili na odber nášho newslettera.,module,Magento_Newsletter
 Thank you for your order from %store_name.,Ďakujeme Vám za vašu objednávku na %store_name.,module,Magento_Sales
 Thank you for your purchase!,Ďakujeme za Vašu objednávku.,module,Magento_Checkout
 Thank you for your purchase!,Ďakujeme za Vašu objednávku.,module,Magento_Multishipping
@@ -10719,7 +10719,7 @@ To,To,module,Magento_TargetRule
 to,to,module,Magento_Ui
 "To apply changes you should fill in hidden required ""%1"" field","To apply changes you should fill in hidden required ""%1"" field",module,Magento_Cms
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Ak chcete začať dostávať newsletter, musíte najprv potvrdiť svoje prihlásenie na odber kliknutím na nasledujúci odkaz:",module,Magento_Newsletter
 "To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
 "To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_Paypal
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
@@ -12278,11 +12278,11 @@ You have %1 new system message,Máte %1 novú systémovú správu,module,Magento
 You have %1 new system messages,Máte %1 nových systémových správ,module,Magento_AdminNotification
 You have %points_balance points that may be used in our store:,You have %points_balance points that may be used in our store:,module,Magento_Reward
 You have a total of %points_balance points that may be used in our store:,You have a total of %points_balance points that may be used in our store:,module,Magento_Reward
-You have been successfully subscribed to our newsletter.,You have been successfully subscribed to our newsletter.,module,Magento_Newsletter
-You have been unsubscribed from the newsletter.,You have been unsubscribed from the newsletter.,module,Magento_Newsletter
+You have been successfully subscribed to our newsletter.,Úspešne ste sa prihlásili na odber nášho newslettera.,module,Magento_Newsletter
+You have been unsubscribed from the newsletter.,Boli ste odhlásený/á z odberu noviniek.,module,Magento_Newsletter
 You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?,You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?,module,Magento_Rma
 You have entered an invalid password for current user.,Pre aktuálneho používateľa ste zadali neplatné heslo.,module,Magento_User
-You have entered an invalid password for current user.,You have entered an invalid password for current user.,module,Magento_Integration
+You have entered an invalid password for current user.,Zadali ste neplatné heslo pre aktuálneho používateľa.,module,Magento_Integration
 You have item changes,Máte zmeny položiek,module,Magento_Sales
 You have logged out.,Odhlásili ste sa.,module,Magento_Backend
 You have no default billing address in your address book.,V adresári nemáte žiadnu predvolenú fakturačnú adresu.,module,Magento_Customer
