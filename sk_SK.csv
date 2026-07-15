@@ -4803,6 +4803,7 @@ If you believe it is the right one you can ignore this notice.,"Ak si myslíte, 
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
 "If you have not authorized this action, please contact us immediately at %store_email","Ak ste túto akciu nepovolili, ihneď nás kontaktujte na adrese %store_email",module,Magento_User
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Ak ste neschválili túto akciu, prosím neeodkladne nás kontaktujte na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>.",module,Magento_Sales
 "If you requested this change, reset your password here:","Ak ste o túto zmenu požiadali, obnovte svoje heslo tu:",module,Magento_User
 "If you requested this change, set a new password here:","Ak ste požiadali o túto zmenu, nastavte nová heslo tu:",module,Magento_Customer
@@ -12474,7 +12475,7 @@ Your coupon was successfully applied.,Your coupon was successfully applied.,modu
 Your coupon was successfully removed.,Your coupon was successfully removed.,module,Magento_SalesRule
 Your credit card will be charged for,Your credit card will be charged for,module,Magento_Paypal
 Your credit card will be charged for,Your credit card will be charged for,module,Magento_Tax
-Your Credit Memo #%creditmemo_id for Order #%order_id,Your Credit Memo #%creditmemo_id for Order #%order_id,module,Magento_Sales
+Your Credit Memo #%creditmemo_id for Order #%order_id,Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id,module,Magento_Sales
 Your Credit Memo #%creditmemo_id for Order #%order_id,Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id,theme,frontend/Magento/luma
 "Your csv file must include ""sku"" and ""qty"" columns.","Csv súbor musí obsahovať stĺpce ""katalógove číslo"" a ""množstvo"".",module,Magento_AdvancedCheckout
 Your current currency is: %1.,Your current currency is: %1.,module,Magento_Directory
