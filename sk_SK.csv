@@ -502,7 +502,7 @@ Access Token,Access Token,module,Magento_Integration
 Access token has been revoked,Access token has been revoked,module,Magento_Integration
 Access Token Secret,Access Token Secret,module,Magento_Integration
 Account,Účet,theme,frontend/Magento/blank
-Account,Account,module,Magento_Theme
+Account,Účet,module,Magento_Theme
 Account &amp; Shipping Information,Account &amp; Shipping Information,module,Magento_Rma
 Account Activity,Account Activity,module,Magento_Security
 Account already active,Účet už je aktívny,module,Magento_Customer
@@ -5738,7 +5738,7 @@ Medium Express Box,Medium Express Box,module,Magento_Ups
 Medium Flat-Rate Box,Medium Flat-Rate Box,module,Magento_Usps
 Memo Total,Poznámka celkom,module,Magento_Sales
 Menu,Ponuka,theme,frontend/Magento/blank
-Menu,Menu,module,Magento_Theme
+Menu,Ponuka,module,Magento_Theme
 Menu Detalization,Menu Detalization,module,Magento_VersionsCms
 Menu Layout,Menu Layout,module,Magento_VersionsCms
 Merchandise,Merchandise,module,Magento_Usps
