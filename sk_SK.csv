@@ -9260,8 +9260,8 @@ Sign Out,Odhlásiť sa,module,Magento_Customer
 Sign Out,Odhlásiť sa,module,Magento_Backend
 Sign Static Files,Podpísať statické súbory,module,Magento_Backend
 Sign Up At,Sign Up At,module,Magento_Invitation
-Sign Up for Newsletter,Prihlásiť sa k odberu newsletter-a,module,Magento_Customer
-Sign Up for Newsletter,Prihlásiť sa k odberu newsletter-a,module,Magento_CustomerCustomAttributes
+Sign Up for Newsletter,Odoberať newsletter,module,Magento_Customer
+Sign Up for Newsletter,Odoberať newsletter,module,Magento_CustomerCustomAttributes
 Sign Up for Our Newsletter:,Sign Up for Our Newsletter:,module,Magento_Newsletter
 Sign-in Information,Prihlasovacie údaje,module,Magento_Customer
 Sign-in Information,Prihlasovacie údaje,module,Magento_CustomerCustomAttributes
