@@ -2094,7 +2094,7 @@ Clear Price,Vymazať cenu,module,Magento_Catalog
 Clear Shopping Cart,Vyčistiť nákupný košík,module,Magento_Sales
 Clear Shopping Cart,Vyprázdniť nákupný košík,module,Magento_Checkout
 "Click ""Save"" to apply the rates we found.","Kliknite na ""Uložiť"" pre uplatnenie sadzieb ktoré sme našli.",module,Magento_CurrencySymbol
-"Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1""> tu</a> pre pokračovanie v nákupe.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1"">sem</a> pre pokračovanie v nákupe.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1"">sem</a> pre pokračovanie v nákupe.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
 Click Details for more required fields.,Click Details for more required fields.,module,Magento_Rma
@@ -5896,7 +5896,7 @@ Move to Shopping Cart,Prejsť na nákupný košík,module,Magento_Sales
 Move to Wish List,presunúť do zoznamu prianí,module,Magento_Sales
 Move to Wish List,Pridať do zoznamu prianí,module,Magento_AdvancedCheckout
 Move to Wish List,Move to Wish List,module,Magento_MultipleWishlist
-Move to Wishlist,Move to Wishlist,module,Magento_Wishlist
+Move to Wishlist,Presunúť do zoznamu prianí,module,Magento_Wishlist
 Multi-address Description Message,Správa s viacerými adresami,module,Magento_Sales
 Multi-address Error to Show in Shopping Cart,Chyba s viacerými adresami na zobrazenie v nákupnom košíku,module,Magento_Sales
 Multiple Line,Multiple Line,module,Magento_CustomAttributeManagement
@@ -9473,7 +9473,7 @@ Something went wrong. Please try again.,Niečo sa pokazilo. Prosím skúste to z
 "Sorry, but we can't find the new parent category you selected.","Je nám ľúto, ale nemôžeme nájsť novú nadradenu kategóriu ktorú ste vybrali.",module,Magento_Catalog
 "Sorry, but we cannot read from or write to backup file ""%1"".","Nie je memôžeme čítať z alebo zapisovať do súboru zálohy ""%1"".",module,Magento_Backup
 "Sorry, guest checkout is not available.","Ospravedlňujeme sa, pokladňa pre hostí nie je k dispozícii.",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Ľutujeme, v tejto chvíli nie sú k dispozícii žiadne ponuky pre túto objednávku",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Pre túto objednávku momentálne nie je k dispozícii žiadny spôsob doručenia.",module,Magento_Checkout
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
 "Sorry, no quotes are available for this order.","Ľutujeme, pre túto objednávku nie sú k dispozícii žiadne cenové ponuky.",module,Magento_Sales
@@ -12572,3 +12572,6 @@ Special Price,Zľavnená cena,module,Magento_Wishlist
 Order ID,Číslo objednávky,module,Magento_Widget
 You will be redirected to the PayPal website.,Budete presmerovaný na stránku PayPal.,module,Magento_Paypal
 Recently Viewed Products,Nedávno prezerané produkty,module,Magento_Catalog
+%1: Line %2,%1: Riadok %2,module,Magento_Checkout
+Tooltip,Nápoveda,module,Magento_Ui
+Your Cart,Váš košík,module,Magento_Checkout
