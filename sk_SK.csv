@@ -12575,3 +12575,4 @@ Recently Viewed Products,Nedávno prezerané produkty,module,Magento_Catalog
 %1: Line %2,%1: Riadok %2,module,Magento_Checkout
 Tooltip,Nápoveda,module,Magento_Ui
 Your Cart,Váš košík,module,Magento_Checkout
+"The store will not work correctly when cookies are disabled.","Obchod nebude správne fungovať, keď sú súbory cookie zakázané.",module,Magento_Theme
