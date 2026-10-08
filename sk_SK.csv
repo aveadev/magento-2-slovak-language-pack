@@ -10804,7 +10804,7 @@ Total of %1 record(s) were deleted.,Total of %1 record(s) were deleted.,module,M
 Total Ordered Report,Total Ordered Report,module,Magento_Reports
 Total Paid,Celkovo zaplatené,module,Magento_Sales
 Total Quantity,Celkové množstvo,module,Magento_Sales
-Total Quantity,Total Quantity,module,Magento_SalesArchive
+Total Quantity,Celkové množstvo,module,Magento_SalesArchive
 total quantity,total quantity,module,Magento_SalesRule
 Total Refund,Celkové vrátenie platby,module,Magento_Sales
 Total Refunded,Celkom vrátená suma,module,Magento_Sales
