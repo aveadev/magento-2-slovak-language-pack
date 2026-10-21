@@ -12576,3 +12576,8 @@ Recently Viewed Products,Nedávno prezerané produkty,module,Magento_Catalog
 Tooltip,Nápoveda,module,Magento_Ui
 Your Cart,Váš košík,module,Magento_Checkout
 "The store will not work correctly when cookies are disabled.","Obchod nebude správne fungovať, keď sú súbory cookie zakázané.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,Na vašej karte nie je dostatok prostriedkov. Na dokončenie nákupu použite iný spôsob platby.
+Your card was declined.,Vaša karta bola zamietnutá.
+Your card has expired.,Platnosť vašej karty vypršala.
+Your card's security code is incorrect.,Bezpečnostný kód vašej karty je nesprávny.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","Kartu sa nepodarilo spracovať. Skúste platbu zopakovať. Ak to stále nefunguje, kontaktujte vydavateľa karty."
